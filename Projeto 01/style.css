@@ -1,0 +1,12 @@
+.destaque{
+    color:rgb(255, 195, 205);
+    font-weight: bold;
+}
+
+body{
+    background-color: rgb(158, 158, 158);
+}
+
+a{
+    color:rgb(255, 195, 205);
+}
